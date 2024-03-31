@@ -1,0 +1,27 @@
+:root {
+    --Lime-Green: hsl(163, 72%, 41%);
+    --Bright-Red: hsl(356, 69%, 56%);
+    --Facebook: hsl(208, 92%, 53%);
+    --Twitter: hsl(203, 89%, 53%);
+    --Instagram: linear-gradient(to right, hsl(37, 97%, 70%), hsl(329, 70%, 58%));
+    --YouTube: hsl(348, 97%, 39%);
+    --round-toggle: hsl(0, 0%, 100%);
+    --Very-Pale-Blue-Top-BG-Pattern: hsl(225, 100%, 98%);
+    --card-colors: hsl(227, 47%, 96%);
+    --Dark-Grayish-Blue-Text: hsl(228, 12%, 44%);
+    --headers-text: hsl(230, 17%, 14%);
+    --first-header: hsl(232, 19%, 15%);
+    --Toggle-light: hsl(230, 22%, 74%);
+    --hover: hsl(230, 25%, 90%);
+    --Toggle: linear-gradient(to right, hsl(210, 78%, 56%), hsl(146, 68%, 55%));
+}
+
+.dark-theme {
+    --body-background: hsl(230, 17%, 14%);
+    --Very-Dark-Blue-Top-BG-Pattern: hsl(232, 19%, 15%);
+    --card-colors: hsl(228, 28%, 20%);
+    --headers-text: hsl(228, 34%, 66%);
+    --headers-text: hsl(0, 0%, 100%);
+    --Toggle: linear-gradient(to right, hsl(210, 78%, 56%), hsl(146, 68%, 55%));
+    --hover:hsl(228, 26%, 27%);
+}
